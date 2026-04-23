@@ -1,4 +1,4 @@
-# JConvertPDF
+# Java Sample to Convert to PDF
 
 A minimal Java sample that converts a document to PDF by calling Nutrient
 Document Converter Services over SOAP, using a **Jakarta EE 9+ compatible**
